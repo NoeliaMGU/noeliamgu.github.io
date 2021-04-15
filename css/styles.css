@@ -10255,3 +10255,8 @@ form .row:first-child .floating-label-form-group {
 .bluetext{
   color: #43c5d8;
 }
+
+.alignedCenter{
+  align-items: center !important;
+  padding-left: 11.75rem;
+}
